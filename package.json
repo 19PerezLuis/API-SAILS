@@ -1,0 +1,19 @@
+{
+  "name": "api-sails",
+  "version": "1.0.0",
+  "description": "API creada con el framework de desarrollo Sails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19PerezLuis/API-SAILS.git"
+  },
+  "author": "Luis Fernando Perez Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19PerezLuis/API-SAILS/issues"
+  },
+  "homepage": "https://github.com/19PerezLuis/API-SAILS#readme"
+}
