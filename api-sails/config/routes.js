@@ -21,7 +21,10 @@ module.exports.routes = {
 
   '/': { view: 'pages/homepage' },
   'GET /usuarios': 'UsersController.getAllUsers',
-  'GET /articulos': 'ArticulosController.getAllArticles'
+  'GET /articulos': 'ArticulosController.getAllArticles',
+  'POST /Users': 'UsersController.post',
+  'PUT /Users': 'UsersController.put',
+  'DELETE /Users': 'UsersController.delete'
 
   /***************************************************************************
   *                                                                          *
