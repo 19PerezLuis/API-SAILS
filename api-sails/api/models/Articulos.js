@@ -11,7 +11,7 @@ module.exports = {
 
     nombre:{type: 'string',required: true},
     marca:{type: 'string',required: true},
-    precioo:{type: 'number',required: true}
+    precio:{type: 'number',required: true}
 
   },
 
